@@ -1,0 +1,23 @@
+body {
+    background-color: darkgreen;
+    font-family: 'Trebuchet MS', 'Lucinda Sans Unicode', 'Lucinda Grande', 'Lucinda sans-serif';
+}
+
+h1 {
+    color: goldenrod;
+    padding: center;
+    text-align:center;
+}
+
+#message-el {
+    padding: center;
+    text-align:center;
+    color: antiquewhite;
+    
+}
+
+p {
+    padding: center;
+    text-align:center;
+    color: antiquewhite;
+}
